@@ -1,0 +1,13 @@
+.topo{
+display: inline;
+}
+
+.fonte{
+font-size: 18pt;
+}
+
+.footer {
+position:absolute;
+bottom:0;
+width:100%;
+}

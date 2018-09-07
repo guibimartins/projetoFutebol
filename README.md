@@ -4,7 +4,7 @@ Repositorio Oficina Projeto WEB
 # Objetivo
 * Desenvolver um sistema WEB para organizar partidas de futebol
 
-##Habilidades necessárias
+## Habilidades necessárias
 * HTML5
 * CSS3
 * JavaScript (Angular)
